@@ -1,2 +1,2 @@
-# Machine-Learning-Basics
-Machine learning basics, especially about the supervised learning.
+# Machine-Learning-Basics-And-Applications
+Machine learning basics and applications, especially about the supervised learning.
